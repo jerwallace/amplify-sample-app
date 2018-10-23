@@ -1,4 +1,4 @@
-# amplify-sample-app
+# Amplify GraphQL/React App
 An Amplify / GraphQL Sample App
 
 For full description, see here:
