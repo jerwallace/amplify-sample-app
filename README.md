@@ -72,7 +72,7 @@ Push your changes to AWS.
 amplify push
 ```
 
-Add the following code to replace your **app.js** file
+Add the following code to replace your **src/App.js** file
 ```javascript
 import React, { Component } from 'react';
 import logo from './logo.svg';
@@ -250,8 +250,8 @@ Run amplify push.
 amplify push
 ```
 
-Update App.js
-```
+Update src/App.js
+```javascript
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
